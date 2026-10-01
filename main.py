@@ -1,3 +1,3 @@
 import pandas as pd
-df=pd.read.csv("penguins.csv")
+df=pd.read_csv("penguins.csv")
 print(df.head(5))
